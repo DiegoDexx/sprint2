@@ -4,7 +4,7 @@
 
 ![NombrePlano.JPG](./NombrePlano.JPG)
 
-- Nombre jerárquico: en este caso existe una jerarquía de nombres que definen el nombre de un host, por ejemplo, la calle el número de portal, el código postal llevan al nombre de una persona, en este caso en el DNS serían los TLD y el servidor raíz.
+- Nombre jerárquico: en este caso existe una jerarquía de nombres que definen el nombre de un host, por ejemplo, la calle el número de portal, el código postal llevan al nombre de una persona, en este caso en el DNS serían los TLD, el dominio y el servidor raíz.
 
 ![jerárquico.png](./jerárquico.png)
 
