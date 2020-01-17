@@ -8,5 +8,5 @@
 # Nombres jerárquicos:
 Este se desarrolló por la razón que el sistema de nombres planos no era sucifiente para identificar a todos los hosts en Internet, en este caso existe una jerarquía de nombres que definen el nombre de un host, por ejemplo, la calle, el número de portal y el código postal llevan al nombre de una persona, en este caso en un servidor DNS serían el TLD, el host, el dominio y el servidor raíz, actualmente es el sistema que utiliza DNS.
 
-![nombres_jerarquicos.png](./nombres_jerarquicos.png)
+![nombre_jerarquico.png](./nombre_jerarquico.png)
 
