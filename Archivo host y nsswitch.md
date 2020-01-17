@@ -13,4 +13,4 @@ Aqui podemos un ejemplo de archivo host de Kali Linux, ejecutado con el terminal
 
 Y aquí podeis ver que ejecutando el comando ping y el nombre del usuario, nos devuelve en las respuestas la IP de este usuario, ya que esta almacenado en el archivo "hosts", si modificaramos el archivo hosts y cambiaramos la IP de ese usuario, nos devolvería esa IP que hemos cambiado.
 
-[Capturaping.PNG]8./Capturaping.PNG)
+[Capturaping.PNG](./Capturaping.PNG)
