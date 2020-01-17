@@ -1,4 +1,5 @@
 # Sistemas de nombres Planos y Jerárquicos
+- Se desarolló para identificar un host y traducir su IP a un nombre, ya que para una persona es mucho más fácil identificar algo o alguien por un nombre simple:
 
 # Nombres planos: 
  Este es un sistema que se utilizaba anteriormente en el internet antiguo y actualmente en empresas o redes locales, donde cada nombre es independiente, es decir, que no existe ninguna jerarquía ni relación entre ellos, por ejemplo, un DNI relaciona al nombre de una persona, o una dirección IP relaciona al nombre de un equipo. En windows está el sistema de NetBIOS y en Linux el archivo host.
