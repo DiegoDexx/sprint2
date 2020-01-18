@@ -17,7 +17,7 @@ Y aquí podeis ver que ejecutando el comando ping y el nombre del usuario, nos d
 
 # Nsswitch.conf
 
-Archivo donde se encuentra la base de datos de determinado servicios como los archivos: hosts o passwd
+Archivo donde se encuentra la base de datos de determinados servicios como los archivos: hosts, passwd o LDAP que son los archivos que almacenan los usuarios y contraseñas de usuarios.
 - Como podeis en esta captura ver existe una línea para cada servicio en el fichero:
 
-![.PNG](./PNG)
+![NsswitchConf.PNG](./NsswitchConf.PNG)
