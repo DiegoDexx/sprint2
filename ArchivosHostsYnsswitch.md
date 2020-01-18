@@ -17,7 +17,7 @@ Y aquí podeis ver que ejecutando el comando **ping** y el nombre del usuario, n
 
 # Nsswitch.conf
 
-El archivo **nsswitch.conf** (Name Service Switch) es un archivo donde se encuentra la base de datos de determinados servicios como los archivos: hosts, passwd o shadow que son los archivos:**"hosts","shadow" o "passwd"** que almacenan datos como usuarios y contraseñas .
+El archivo **nsswitch.conf** (Name Service Switch) es un archivo donde se encuentra la base de datos de determinados servicios como los archivos:**"hosts","shadow" o "passwd"** que almacenan datos como usuarios y contraseñas del equipo.
 - Como podeis veren esta captura accediendo con **nano /etc/nsswitch.conf** existe una línea para cada servicio en el fichero:
 
 ![NsswitchConf.PNG](./NsswitchConf.PNG)
