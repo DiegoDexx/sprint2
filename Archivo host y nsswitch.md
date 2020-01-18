@@ -1,7 +1,7 @@
-# LOS ARCHIVOS HOST Y NSSWITCH.CONF
+# LOS ARCHIVOS HOSTS Y NSSWITCH.CONF
 
 - Para esta tarea he utilizado una máquina de Kali Linux (Debian)
-- Antes de todo vamos a definir qué son y para que se utilizan estos comandos.
+- Vamos a definir que son los archivos hosts y nsswitch.conf, y cual es su función:
 
 
 # HOSTS
