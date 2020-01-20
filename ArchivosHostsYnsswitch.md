@@ -7,7 +7,7 @@
 # HOSTS
 - El archivo **"/etc/hosts"** es un archivo de un sistema operativo que almacena una lista con los nombres e IPs de los equipos de una máquina local, y este utiliza el sitema de nombres planos.
 
-Aqui podemos un ejemplo de archivo host de Kali Linux, ejecutado con el terminal y pudiendo ver una configuración normal con solo 2 usuarios y el localhost. Comando para acceder:**nano /etc/hosts**
+Aqui podemos ver un ejemplo de un archivo host de Kali Linux, ejecutado con el terminal y pudiendo ver una configuración normal con solo 2 usuarios y el localhost. Comando para acceder:**nano /etc/hosts**
 
 ![CapturaHosts.PNG](./CapturaHosts.PNG)
 
